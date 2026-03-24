@@ -32,5 +32,3 @@ This project demonstrates:
 * Functions
 * Loops
 * User input handling
-
-Your Name
